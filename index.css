@@ -16,7 +16,7 @@ body{
 .container{
     background-color: hsl(0, 0%, 100%);
     border: 1px solid black;
-    max-width: 375px;
+    width: min(375px, 85%);
     padding: 15px;
     border-radius: 15px;
     box-shadow: 10px 10px 10px 0px black;    
